@@ -1,0 +1,24 @@
+
+Corrected Egean Region Air Quality Dataset
+
+This dataset contains air quality measurements collected in the Egean Region of Turkey, 
+spanning from 2004 to 2023. The dataset includes information collected for each season (Winter, Spring, Summer, Autumn) 
+for six provinces in the region. It contains 480 observations and 13 variables.
+
+Variables:
+1. Year: The year of observation (2004-2023).
+2. Province: The province in the Egean Region where data was collected (Izmir, Aydin, Denizli, Manisa, Mugla, Usak).
+3. Season: The season during which the data was collected (Winter, Spring, Summer, Autumn).
+4. Pollution_Source: The main source of pollution (Traffic, Industrial, Residential, Natural).
+5. Action_Plan: Indicates whether a pollution action plan was implemented (Implemented, Not Implemented).
+6. Land_Use: Type of land use where the data was collected (Urban, Suburban, Rural).
+7. Monitoring_Station: The monitoring station where data was collected (Station A, Station B, Station C, Station D).
+8. PM2.5: Fine particulate matter concentration (μg/m³).
+9. PM10: Particulate matter concentration (μg/m³).
+10. SO2: Sulfur dioxide concentration (ppb).
+11. NO2: Nitrogen dioxide concentration (ppb).
+12. CO: Carbon monoxide concentration (ppm).
+13. O3: Ozone concentration (ppb).
+
+Notes:
+- Data represents seasonal observations; each province has exactly four records (one per season) per year.
