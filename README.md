@@ -25,9 +25,9 @@ Time range: [30 days]
 📬 Contributors
 [Atakan TATAR](https://github.com/atakantatar)
 
-[Teammate Name](https://github.com/teammateusername)
-[Teammate Name](https://github.com/teammateusername)
-[Teammate Name](https://github.com/teammateusername)
-[Teammate Name](https://github.com/teammateusername)
-[Teammate Name](https://github.com/teammateusername)
-[Teammate Name](https://github.com/teammateusername)
+[Zeynep Gökçe ABAŞ](https://github.com/teammateusername)
+[Özlem Çetin](https://github.com/teammateusername)
+[Rabia Görünmez](https://github.com/teammateusername)
+[Uygar Sarı](https://github.com/teammateusername)
+[Begüm Somay](https://github.com/teammateusername)
+[Elif Yıldırım](https://github.com/teammateusername)
