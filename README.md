@@ -20,7 +20,7 @@ Source: [Egean_Region_Air_Quality_Dirty.csv]
 
 Includes air quality measurements such as PM2.5, PM10, CO, NO2, O3
 
-Time range: 30 days
+Time range: [30 days]
 
 📬 Contributors
 [Atakan TATAR](https://github.com/atakantatar)
